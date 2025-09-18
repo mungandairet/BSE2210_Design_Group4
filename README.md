@@ -1,10 +1,18 @@
 # BSE2210_Design_Group4
 Software design as a process and as artifact, trends in software design, Application first vs Principle- first business case, outsourcing, DevOps/ DevSecOps,   Cultural Intelligence
-Contributors
-Design and Prinnciple Lead  -Robert Muntanga :2420907
-Business Analyst       -Tatenda Mungandaire :2420986
- Culture and Ops Lead -WongaReflection-Design and Principle Lead
-Introduction
+<h1>Contributors</h1>
+<br>• Design and Prinnciple Lead:</br>
+  Name: Robert Muntanga
+  Student ID: 2420907
+  Reflection Design and Principle Lead
+<br>• Business Analyst:</br>
+  Name: Tatenda Mungandaire
+  Student ID: 2420986
+ <br>• Culture and Ops Lead</br>
+  Name: Wongani Miyanza,
+  Student ID: 2420907,
+  Reflection Culture, DevOps, DevSecOps Lead
+<h1>Introduction</h1>
 I worked as a design and principle lead for the USEP project and l researched on design as a process and design as an artifact for the USEP project. I discovered that design in 2025 is no longer a step-by-step process .it is now a faster process with iterative and user centered process.
 Findings
 Design as a Principle
