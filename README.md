@@ -35,14 +35,14 @@ Conclusion
 Outsourcing approach is influenced by various factors for example budget constraints and needs of the users.
 
 
-Reflection-Culture and Ops 
-Introduction
+<h1>Reflection-Culture and Ops Lead</h1>   
+<h2>Introduction</h2>  
 I did a research on cultural intelligence, DevOps and AI ethics. I looked on how we were implementing these for the USEP .My assigned role was to make sure that the system work inclusively for diverse students since we had to keep in mind that the system is supposed to be made  to meet the needs of international students as well.
 Learning Outcomes
-Cultural Intelligence Requirements
+<h3>Cultural Intelligence Requirements</h3>
 I learnt that the USEP was supposed to be in alignment with inclusivity. I learnt that the system was supposed to serve international students with diverse backgrounds and this meant providing multilingual support .For example, multilingual support for local language like Bemba as well multilingual support for global languages like English, French in order to meet students’ needs. I also found out about accessibility features like screen reader compability, high contrast modes and adjustable text size to cater for students with disabilities.
-AI and Ethics Implementation
+<h3>AI and Ethics Implementation</h3>
 I learnt about the advantages  of AI would be of benefit if we were to implement it for the USEP.For example how an AI driven platform can help students plan courses, remind students of deadlines like course registration .I also discovered that an AI driven platform can help track applications and alerts on loan repayments. I also looked at the disadvantages of an AI driven platform. For example, the issue of misuse of student data as well as biasness of AI.
-DevOps and DevSecOps
+<h3>DevOps and DevSecOps</h3>
 I came up with the CI/CD pipeline for the USEP and l looked at the benefits of such a pipeline. The pipeline was such that we have to code and from coding, we move on to building the system. After building is done, testing and security scan followed consecutively followed by deploying and monitoring of the system. I looked on the advantages of such a pipeline. Examples include faster and reliable updates, less security vulnerabilities and scaling.
 ni Miyanza :2420908
